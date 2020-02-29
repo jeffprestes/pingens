@@ -21,8 +21,8 @@ Domain resolves to 0x7dA2547202458D2540d64513D409A1c2bA57bA3A
 
 ## Downloads available
 
-[MacOS version](https://github.com/jeffprestes/pingens/raw/master/downloadmac/pingens) - After download it move the binary to **/usr/local/bin**
+[MacOS version](https://github.com/jeffprestes/pingens/raw/master/downloadmac/pingens) - After download it move the binary to **/usr/local/bin** and if needed runs ```chmod +x /usr/local/bin/pingens``` 
 
 [Windows version](https://github.com/jeffprestes/pingens/raw/master/downloadwindows/pingens.exe) - After download it move the binary to **C:\Program Files\Common Files**
 
-[Linux version](https://github.com/jeffprestes/pingens/raw/master/downloadlinux/pingens) - After download it move the binary to **/usr/local/bin**
+[Linux version](https://github.com/jeffprestes/pingens/raw/master/downloadlinux/pingens) - After download it move the binary to **/usr/local/bin** and if needed runs ```chmod +x /usr/local/bin/pingens```
