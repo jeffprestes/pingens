@@ -21,8 +21,8 @@ Domain resolves to 0x7dA2547202458D2540d64513D409A1c2bA57bA3A
 
 ## Downloads available
 
-[MacOS version](/downloadmac/pingens)
+[MacOS version](/downloadmac/pingens) - After download it move the binary to **/usr/local/bin**
 
-[Windows version](/downloadwindows/pingens.exe)
+[Windows version](/downloadwindows/pingens.exe) - After download it move the binary to **C:\Program Files\Common Files**
 
-[Linux version](/downloadlinux/pingens)
+[Linux version](/downloadlinux/pingens) - After download it move the binary to **/usr/local/bin**
