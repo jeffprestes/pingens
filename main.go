@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"os"
 
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/jeffprestes/goethereumhelper"
@@ -17,7 +18,8 @@ func main() {
 		fmt.Println("It was not possible to connect to an Ethereum node ", err)
 		return
 	}
-	if !genericInfo(client, "code.jeffprestes.eth") {
+	ensName := os.Args[1:][0]
+	if !genericInfo(client, ensName) {
 		fmt.Println("Domain is not found")
 	}
 }
